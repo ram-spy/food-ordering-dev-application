@@ -34,4 +34,3 @@ app.listen(port,()=>{
     console.log(`Server Started on http://localhost:${port}`)
 })
 
-// mongodb+srv://AvinashMourya:Baroda2024@cluster0.nijp76z.mongodb.net/?
